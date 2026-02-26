@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+   background-color: #c51818;
+}
+
+
+
+
+nav{ 
+    
+
+    display: flex;
+
+    background-color: #ff0d0d;
+    font-family: Arial, sans-serif;
+   color: black;
+    justify-content: space-between;
+    align-items: center;
+
+} 
+
+
+    
+
+
+#icon{
+    width: 65px;
+}
+
+.noticias{
+
+    background-color: #f0f0f0;
+    color: black;
+    border: 5px solid olivedrab;
+}
