@@ -56,4 +56,8 @@ footer{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 30px;
 }
-a
+
+#Jogadores{
+    display: flex;
+   
+}   
