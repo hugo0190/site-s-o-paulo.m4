@@ -58,6 +58,28 @@ footer{
 }
 
 #Jogadores{
-    display: flex;
+  display: flex;
+    text-align: center;
+    justify-content: space-around;
    
-}   
+    border-radius: 10px;
+   
+}  
+
+#icon_jogador{
+    width: 70px;
+    border: 5px solid crimson;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: space-around;
+    display: flex;
+
+}
+
+#gif{
+  width: 200px;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
